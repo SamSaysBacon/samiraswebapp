@@ -1,3 +1,99 @@
+// FOR ALL PAGES
+
+body {
+  position: relative;
+  background-color: #FAFAFA;
+  color: #424949;
+  padding-top: 50px;
+  margin: 0;
+}
+
+// NAVBAR 
+
+.projectName a, 
+.navbar-right li {
+  color: white;
+}
+
+.navbar-right li {
+  padding-right: 40px;
+  padding-top: 15px;
+}
+
+.navbar {
+  text-transform: uppercase;
+} 
+
+.projectName {
+  font-family: "Raleway", Open-sans, Arial, sans-serif;
+}
+
+// FOOTER
+
+.footer {
+	text-align: center;
+	margin-bottom: 3%;
+	margin-top: 3%;
+}
+
+// INDEX PAGE
+
+.welcome-header {
+	margin-top: 3%;
+}
+
+.welcome-header h1,
+h2 {
+	text-transform: uppercase;
+	text-align: left;
+}
+
+.welcome-header h1 {
+  font-size: 3em;
+}
+
+.welcome-header h2 {
+  font-size: 1.7em;
+}
+
+.bike_pics {
+	padding-top: 25px;
+}
+
+// ABOUT PAGE
+
+.about-header {
+  padding: 20px;
+}
+
+.about-header p {
+	font-size: 1.7em;
+}
+
+.uni_bike {
+	padding: 20px;
+	width: 40%;
+}
+
+// CONTACT PAGE
+
+.contact-header {
+	padding: 25px;
+}
+
+.contact-header h1 {
+	font-size: 2em;
+}
+
+.contact-header {
+	font-size: 1.4em;
+}
+
+
+
+
+// INFO
+
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
